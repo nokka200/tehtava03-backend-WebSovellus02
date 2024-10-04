@@ -1,0 +1,19 @@
+{
+  "name": "tehtava03-backend",
+  "version": "1.0.0",
+  "description": "Tehtava 03 Node.js backend",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon index.js"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "@sequelize/mariadb": "^7.0.0-alpha.42",
+    "express": "^4.21.0",
+    "nodemon": "^3.1.7",
+    "sequelize": "^6.37.3"
+  }
+}
