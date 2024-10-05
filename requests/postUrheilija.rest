@@ -1,0 +1,13 @@
+POST http://localhost:3000/api/urheilijat/
+Content-Type: application/json
+
+{
+    "etunimi": "Matti",
+    "sukunimi": "Meikäläinen",
+    "kutsumanimi": "Masa",
+    "syntymavuosi": "1990-01-01",
+    "paino": 80,
+    "linkkiKuvaan": "https://www.google.com",
+    "laji": "NFL",
+    "saavutukset": "Super Bowl MVP"
+}

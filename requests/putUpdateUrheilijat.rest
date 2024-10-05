@@ -1,0 +1,13 @@
+PUT http://localhost:3000/api/urheilijat/4
+Content-Type: application/json
+
+{
+    "etunimi": "Muutettu nimi",
+    "sukunimi": "Meikäläinen",
+    "kutsumanimi": "Masa",
+    "syntymavuosi": "1990-01-01",
+    "paino": 80,
+    "linkkiKuvaan": "https://www.google.com",
+    "laji": "NFL",
+    "saavutukset": "Super Bowl Super Boi"
+}
