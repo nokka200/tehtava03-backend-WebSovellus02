@@ -4,6 +4,7 @@ Kaikki rajapinnat löytyy osoitteesta
 http://localhost:3000/api/urheilijat/
 
 Käytin Sequelize kirjastoa tehtävässä.
+dbConfig.js tiedostossa voi määrittää tietokannan asetukset.
 
 
 ## Tietokanta
